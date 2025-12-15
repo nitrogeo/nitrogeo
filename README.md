@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">hai 👋 im nitro!</h1>
 <p align="center">
-  <em>student · developer · creative</em><br/>
-  building calm, thoughtful software
+  <em>a student, developer, and creative</em> building calm, thoughtful software.
 </p>
 
 ---
