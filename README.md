@@ -38,13 +38,13 @@ My work usually lives where:
 - systems meet empathy
 - code meets creativity
 
-I care deeply about how software *feels* — not just what it does.
+I care about how software *feels*, not just if it works.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🟦 Tesseract
+### 📓 Tesseract
 An all-in-one workspace for notes, tasks, time, and ideas.  
 Designed as a single “home” for your brain.
 
