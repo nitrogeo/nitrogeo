@@ -1,9 +1,9 @@
-# hai
+<!-- # hai -->
 
 
 
 <!--
-**SamFrox/SamFrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nitrogeo/nitrogeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -45,8 +45,9 @@ I care about how software *feels*, not just if it works.
 ## Projects
 
 ### 📓 Tesseract
-An all-in-one workspace for notes, tasks, time, and ideas.  
-Designed as a single “home” for your brain.
+Your idea inbox.
+A truly all-in-one workspace for notes, tasks, time-tracking, and more.  
+The home for your mind.
 
 ### 🍽 Prism
 A companion app for consuming content intentionally.  
@@ -57,17 +58,15 @@ An AI with context-awareness and emotional intelligence.
 Supportive, present, and human-centered.
 
 ### 🌐 Astrox / Photon
-A browser with AI as a backseat assistant and focused on flow and clarity.
+A browser with the cutomizability of Firefox and the flow of Arc/Zen. 
+AI is a backseat assistant, not the search engine.
 
 ### 🎶 Airwaves *(working title)*
-A lightweight music app inspired by the iPod shuffle philosophy.
+A lightweight music app to inspired by the iPod shuffle philosophy.
 
 ---
 
 ## 🧰 Tools & Tech
-
-
-tools
 Languages:   JavaScript / TypeScript · Python
 Frameworks: React · Node
 Design:     Figma · UI systems · icon design
