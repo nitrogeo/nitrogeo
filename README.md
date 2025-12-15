@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">hai 👋 im nitro!</h1>
 <p align="center">
-  <em>a student, developer, and creative</em> building calm, thoughtful software.
+  a <em>student, developer, and creative</em> building calm, thoughtful software.
 </p>
 
 ---
 
-## 🧠 What I Do
+## 🧠 what i do
 
 I build tools that help people **think more clearly** and **feel less overwhelmed**.
 
@@ -41,32 +41,32 @@ I care about how software *feels*, not just if it works.
 
 ---
 
-## Projects
+## projects
 
 ### 📓 Tesseract
-Your idea inbox.
-A truly all-in-one workspace for notes, tasks, time-tracking, and more.  
-The home for your mind.
+your idea inbox.
+a truly all-in-one workspace for notes, tasks, time-tracking, and more.  
+the home for your mind.
 
 ### 🍽 Prism
-A companion app for consuming content intentionally.  
+a companion app for consuming content intentionally.  
 controlled feeds. less noise.
 
 ### 🤖 Niko
-An AI with context-awareness and emotional intelligence.  
+an AI assistant and friend with context-awareness and emotional intelligence.  
 Supportive, present, and human-centered.
 
 ### 🌐 Astrox / Photon
-A browser with the cutomizability of Firefox and the flow of Arc/Zen. 
-AI is a backseat assistant, not the search engine.
+a browser with the cutomizability of Firefox and the flow of Arc/Zen. 
+with AI as a backseat assistant, not the entire experience.
 
 ### 🎶 Airwaves *(working title)*
-A lightweight music app to inspired by the iPod shuffle philosophy.
+a lightweight music app to inspired by the iPod shuffle philosophy.
 
 ---
 
 ## 🧰 Tools & Tech
 Languages:   JavaScript / TypeScript · Python
-Frameworks: React · Node
+Frameworks: React · NextJS
 Design:     Figma · UI systems · icon design
-Platforms:  Linux · macOS
+Platforms:  Linux · Windows
