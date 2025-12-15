@@ -65,7 +65,7 @@ a lightweight music app to inspired by the iPod shuffle philosophy.
 
 ---
 
-## 🧰 Tools & Tech
+## 🧰 my stack
 Languages:   JavaScript / TypeScript · Python
 Frameworks: React · NextJS
 Design:     Figma · UI systems · icon design
