@@ -1,6 +1,6 @@
 <h1 align="center">hai 👋 im nitro!</h1>
 <p align="center">
-  a <em>student, developer, and creative</em> building calm, thoughtful software.
+  a <em>student, developer, and creative</em> building thoughtful software.
 </p>
 
 ---
