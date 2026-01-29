@@ -20,25 +20,15 @@ I care about how software *feels*, not just if it works.
 
 ## projects
 
-### 📓 Tesseract
-your idea inbox.
-a truly all-in-one workspace for notes, tasks, time-tracking, and more.  
-the home for your mind.
+### 💾 <a href="[URL](https://nitroxhq.github.io/)">Nitrox</a>
+better technology. to make your life effecient, easier, and enjoyable.
 
-### 🍽 Prism
-a companion app for consuming content intentionally.  
-controlled feeds. less noise.
+### 🐧 Arch Linux
+Windows is enslopifying. I sadly don't have a Mac (yet). <br> Linux is the *logical solution*™.
 
 ### 🤖 Niko
 an AI assistant and friend with context-awareness and emotional intelligence.  
 Supportive, present, and human-centered.
-
-### 🌐 Astrox / Photon
-a browser with the cutomizability of Firefox and the flow of Arc/Zen. 
-with AI as a backseat assistant, not the entire experience.
-
-### 🎶 Airwaves *(working title)*
-a lightweight music app to inspired by the iPod shuffle philosophy.
 
 ---
 
