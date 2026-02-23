@@ -18,6 +18,17 @@ I care about how software *feels*, not just if it works.
 
 ---
 
+## 📊 stats
+
+coming soon~
+
+<!--
+[![hackatime stats]](https://github-readme-stats.hackclub.dev/api/wakatime?username=29104&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+-->
+
+
+---
+
 ## projects
 
 ### 💾 <a href="[URL](https://nitroxhq.github.io/)">Nitrox</a>
