@@ -3,7 +3,6 @@
   a <em>student, developer, and creative</em> building thoughtful software.
 </p>
 
----
 
 ## 🧠 what i do
 
@@ -16,7 +15,8 @@ My work usually lives where:
 
 I care about how software *feels*, not just if it works.
 
----
+
+
 
 ## 📊 stats
 
@@ -27,7 +27,6 @@ coming soon~
 -->
 
 
----
 
 ## projects
 
@@ -41,7 +40,6 @@ Windows is enslopifying. I sadly don't have a Mac (yet). <br> Linux is the *logi
 an AI assistant and friend with context-awareness and emotional intelligence.  
 Supportive, present, and human-centered.
 
----
 
 ## 🧰 my stack
 Languages:   JavaScript / TypeScript · Python
