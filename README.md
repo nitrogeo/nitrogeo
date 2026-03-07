@@ -20,7 +20,11 @@ I care about how software *feels*, not just if it works.
 
 ## 📊 stats
 
-coming soon~
+<a href="http://www.github.com/nitrogeo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitrogeo&stroke=ffffff&background=1c1917&ring=72a9fc&fire=72a9fc&currStreakNum=ffffff&currStreakLabel=72a9fc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!--
+<a href="https://github.com/nitrogeo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitrogeo&langs_count=10&title_color=72a9fc&text_color=ffffff&icon_color=72a9fc&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 
 <!--
 [![hackatime stats]](https://github-readme-stats.hackclub.dev/api/wakatime?username=29104&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
@@ -33,12 +37,12 @@ coming soon~
 ### 💾 <a href="[URL](https://nitroxhq.github.io/)">nitrox</a>
 making better technology to make the human existience more effecient, easier, and enjoyable.
 
-### 🐧 <a href="[URL](https://github.com/nitrogeo/dotfiles)">Arch Linux</a>
+### 🐧 <a href="[URL](https://github.com/nitrogeo/dotfiles)">arch linux</a>
 1. Windows is enslopifying. 
 2. I sadly don't have a Mac (yet). 
 3. Linux is the *logical solution*™.
 
-### 💡 <a href="[URL](https://nitroxhq.github.io/niko)">tesseract</a>
+### 💡 <a href="[URL](https://nitroxhq.github.io/tesseract)">tesseract</a>
 a productivity supertool to unify entire your producitivty system under one interface that *you* control.
 
 ### 🍽️ <a href="[URL](https://nitroxhq.github.io/prism)">prism</a>
