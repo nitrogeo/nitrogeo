@@ -6,12 +6,12 @@
 
 ## 🧠 what i do
 
-I build tools that help people **think more clearly** and **feel less overwhelmed**.
+I build thoughtful tools for thoughtful work @nitrox. tools that help people **think more clearly** and **create more intentionally**.
 
 My work usually lives where:
 - productivity meets design
 - systems meet empathy
-- code meets creativity
+- logic meets creativity
 
 I care about how software *feels*, not just if it works.
 
@@ -30,22 +30,27 @@ coming soon~
 
 ## projects
 
-### 💾 <a href="[URL](https://nitroxhq.github.io/)">Nitrox</a>
+### 💾 <a href="[URL](https://nitroxhq.github.io/)">nitrox</a>
 better technology. to make your life effecient, easier, and enjoyable.
 
 ### 🐧 Arch Linux
-Windows is enslopifying. I sadly don't have a Mac (yet). <br> Linux is the *logical solution*™.
+1. Windows is enslopifying. 
+2. I sadly don't have a Mac (yet). 
+3. Linux is the *logical solution*™.
 
-### 🤖 Niko
+### 🤠 niko
 an AI assistant and friend with context-awareness and emotional intelligence.  
-Supportive, present, and human-centered.
+not just another hallicination, avaricious, google-scraper.
 
 
 ## 🧰 my stack
-Languages:   JavaScript / TypeScript · Python
-Frameworks: React · NextJS
-Design:     Figma · UI systems · icon design
-Platforms:  Linux · Windows
+Languages:  more coming soon~
+<br>
+Frameworks: coming soon~
+<br>
+Design:     Figma, UI/UX, iconography
+<br>
+Platforms:  Arch, microslop windows
 
 
 
