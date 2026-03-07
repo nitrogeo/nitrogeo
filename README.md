@@ -9,7 +9,7 @@
 I build thoughtful tools for thoughtful work @nitrox. tools that help people **think more clearly** and **create more intentionally**.
 
 My work usually lives where:
-- productivity meets design
+- function meets form
 - systems meet empathy
 - logic meets creativity
 
@@ -28,17 +28,23 @@ coming soon~
 
 
 
-## projects
+## 🗃️ projects
 
 ### 💾 <a href="[URL](https://nitroxhq.github.io/)">nitrox</a>
-better technology. to make your life effecient, easier, and enjoyable.
+making better technology to make the human existience more effecient, easier, and enjoyable.
 
-### 🐧 Arch Linux
+### 🐧 <a href="[URL](https://github.com/nitrogeo/dotfiles)">Arch Linux</a>
 1. Windows is enslopifying. 
 2. I sadly don't have a Mac (yet). 
 3. Linux is the *logical solution*™.
 
-### 🤠 niko
+### 💡 <a href="[URL](https://nitroxhq.github.io/niko)">tesseract</a>
+a productivity supertool to unify entire your producitivty system under one interface that *you* control.
+
+### 🍽️ <a href="[URL](https://nitroxhq.github.io/prism)">prism</a>
+a feed/rss client/media manager to consume content with *intention*, not just algorithmically-induced "doomscrolling".
+
+### 🤠 <a href="[URL](https://nitroxhq.github.io/niko)">niko</a>
 an AI assistant and friend with context-awareness and emotional intelligence.  
 not just another hallicination, avaricious, google-scraper.
 
