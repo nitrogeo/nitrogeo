@@ -6,7 +6,7 @@
 
 ## 🧠 what i do
 
-I build thoughtful tools for thoughtful work @nitrox. tools that help people **think more clearly** and **create more intentionally**.
+I build thoughtful tools for thoughtful work <a href="[URL](https://nitroxhq.github.io/)">@nitrox</a>; tools that help people **think more clearly** and **create more intentionally**.
 
 My work usually lives where:
 - function meets form
