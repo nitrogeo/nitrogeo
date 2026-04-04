@@ -6,14 +6,9 @@
 
 ## 🧠 what i do
 
-I build thoughtful tools for thoughtful work <a href="[URL](https://nitroxhq.github.io/)">@nitrox</a>; tools that help people **think more clearly** and **create more intentionally**.
+I build thoughtful tools for meaningful productivity <a href="[URL](https://nitroxhq.github.io/)">@nitrox</a>; tools that help people **think clearer**, **create more intentionally**, and **be entertained more meaningfully**.
 
-My work usually lives where:
-- function meets form
-- systems meet empathy
-- logic meets creativity
-
-I care about how software *feels*, not just if it works.
+I believe function and form can coelece into beauty and don't have to be a complete trade-off.
 
 
 
