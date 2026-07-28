@@ -4,11 +4,19 @@
 </p>
 
 
-## 🧠 what i do
+## 😊 about me
+- I'm interested in UI/UX/graphic design, webdev, gamedev, iOS jailbreaking, and more
+- learning japanese
 
-I build thoughtful tools for meaningful productivity <a href="[URL](https://nitroxhq.github.io/)">@nitrox</a>; tools that help people **think clearer**, **create more intentionally**, and **be entertained more meaningfully**.
 
-I believe function and form can coelece into beauty and don't have to be a complete trade-off.
+### 🧠 what i do
+
+build thoughtful tools for meaningful productivity <a href="[URL](https://nitroxhq.github.io/)">@nitrox</a>; tools that help people:
+- **think clearer**
+- **create more intentionally**,
+- and **be entertained + consume content more meaningfully**.
+
+Function, form, and user control don't have to be trade-offs.
 
 
 
@@ -32,24 +40,28 @@ I believe function and form can coelece into beauty and don't have to be a compl
 ### 💾 <a href="[URL](https://nitroxhq.github.io/)">nitrox</a>
 making better technology to make the human existience more effecient, easier, and enjoyable.
 
-### 🐧 <a href="[URL](https://github.com/nitrogeo/dotfiles)">arch linux</a>
-1. Windows is enslopifying. 
-2. I sadly don't have a Mac (yet). 
-3. Linux is the *logical solution*™.
 
-### 💡 <a href="[URL](https://nitroxhq.github.io/tesseract)">tesseract</a>
+#### 💡 <a href="[URL](https://nitroxhq.github.io/tesseract)">tesseract</a>
 a productivity supertool to unify entire your producitivty system under one interface that *you* control.
 
-### 🍽️ <a href="[URL](https://nitroxhq.github.io/prism)">prism</a>
+#### 🍽️ <a href="[URL](https://nitroxhq.github.io/prism)">prism</a>
 a feed/rss client/media manager to consume content with *intention*, not just algorithmically-induced "doomscrolling".
 
-### 🤠 <a href="[URL](https://nitroxhq.github.io/niko)">niko</a>
+#### 🤠 <a href="[URL](https://nitroxhq.github.io/niko)">niko</a>
 an AI assistant and friend with context-awareness and emotional intelligence.  
-not just another hallicination, avaricious, google-scraper.
+not just another hallicination, avaricious, google-scraping chatbot.
+
+### 🐧 <a href="[URL](https://github.com/nitrogeo/dotfiles)">arch linux (EndeavorOS)</a>
+1. Windows is enslopifying. 
+2. I don't have a Mac (yet). 
+3. Linux is the *logical solution*™.
+
+## 🌐 Hoth Homelab
+the homelab I'm building for all my self hosted services. dotfiles coming soon.
 
 
 ## 🧰 my stack
-Languages:  more coming soon~
+Languages:  coming soon~
 <br>
 Frameworks: coming soon~
 <br>
