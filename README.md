@@ -6,7 +6,7 @@
 
 ## 😊 about me
 - I'm interested in UI/UX/graphic design, webdev, gamedev, iOS jailbreaking, and more
-- learning japanese
+- learning japanese, maybe russian
 
 
 ### 🧠 what i do
