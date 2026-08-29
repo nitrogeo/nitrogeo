@@ -25,6 +25,8 @@ Function, form, and user control don't have to be trade-offs.
 
 <a href="http://www.github.com/nitrogeo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitrogeo&stroke=ffffff&background=1c1917&ring=72a9fc&fire=72a9fc&currStreakNum=ffffff&currStreakLabel=72a9fc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![nitro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 <a href="https://github.com/nitrogeo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitrogeo&langs_count=10&title_color=72a9fc&text_color=ffffff&icon_color=72a9fc&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
