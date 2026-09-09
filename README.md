@@ -7,6 +7,10 @@
 ## 😊 about me
 - I'm interested in UI/UX/graphic design, webdev, gamedev, iOS jailbreaking, and more
 - learning japanese, maybe russian, chinese, korean
+<a href="https://github.com/nitrogeo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40nitrogeo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40nitrogeo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+
+[![Website](https://www.shieldcn.dev/badge/Website-nitrogeo.github.io-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://nitrogeo.github.io/)
+<a href="https://nitrogeo.github.io/"><img src="https://www.shieldcn.dev/badge/Website-nitrogeo.github.io-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm" alt="Website" /></a>
 
 
 ### 🧠 what i do
@@ -70,7 +74,10 @@ Design:     Figma, UI/UX, iconography
 <br>
 Platforms:  Arch, microslop windows
 
-
+main languages so far:
+<img src="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm" alt="Java" />
+<img src="https://www.shieldcn.dev/badge/-Bash-4EAA25.svg?logo=gnubash&variant=branded&size=sm" alt="Bash" />
+<img src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm" alt="JavaScript" />
 
 
 
