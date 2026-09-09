@@ -71,6 +71,7 @@ Design:     Figma, UI/UX, iconography
 Platforms:  Arch, microslop windows
 
 main languages so far:
+
 <img src="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm" alt="Java" />
 <img src="https://www.shieldcn.dev/badge/-Bash-4EAA25.svg?logo=gnubash&variant=branded&size=sm" alt="Bash" />
 <img src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm" alt="JavaScript" />
