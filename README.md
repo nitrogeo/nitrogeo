@@ -7,6 +7,7 @@
 ## 😊 about me
 - I'm interested in UI/UX/graphic design, webdev, gamedev, iOS jailbreaking, and more
 - learning japanese, maybe russian, chinese, korean
+- 
 <a href="https://github.com/nitrogeo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40nitrogeo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40nitrogeo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
 [![Website](https://www.shieldcn.dev/badge/Website-nitrogeo.github.io-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://nitrogeo.github.io/)
