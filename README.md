@@ -1,4 +1,4 @@
-<h1 align="center">hai 👋 im nitro!</h1>
+<h1 align="center">hai 👋 im <a href="[URL](https://nitrogeo.github.io/)">nitro</a>!</h1>
 <p align="center">
   a <em>student, developer, and creative</em> building thoughtful software.
 </p>
