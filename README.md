@@ -10,9 +10,6 @@
 
 <a href="https://github.com/nitrogeo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40nitrogeo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40nitrogeo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
-[![Website](https://www.shieldcn.dev/badge/Website-nitrogeo.github.io-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://nitrogeo.github.io/)
-<a href="https://nitrogeo.github.io/"><img src="https://www.shieldcn.dev/badge/Website-nitrogeo.github.io-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm" alt="Website" /></a>
-
 
 ### 🧠 what i do
 
